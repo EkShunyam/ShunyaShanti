@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShunyaShanti
 - 👀 I’m interested in Applied machine learning and blockchain solutions
-- 🌱 I’m currently learning Mathematics, Compuuter Science, Programming and novel technologies
+- 🌱 I’m currently learning Mathematics, Computer Science, Programming and novel technologies
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me @ShantiShunya on twitter
 
